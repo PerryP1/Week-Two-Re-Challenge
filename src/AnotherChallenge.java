@@ -84,5 +84,10 @@ public class AnotherChallenge {
         System.out.println("Have a nice day!");
 
     }
+
+    static void print (String print) {
+        System.out.println(print);
+    }
 }
 
+  
